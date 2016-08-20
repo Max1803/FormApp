@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Задачи</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mob1">Задача 1</string>
+    <string name="title_activity_mob2">Задача 2</string>
+    <string name="title_activity_mob3">Задача 3</string>
+</resources>
